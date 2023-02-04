@@ -1,0 +1,15 @@
+env
+.vscode
+.env
+*.log
+db.sqlite3
+*.yml
+Makefile
+# Byte-compiled / optimized / DLL files
+**/__pycache__
+*.pyc
+*.py[cod]
+*$py.class
+*.py[cod]
+
+!.gitignore
